@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Example project build outputs
+examples/*/build/
+examples/*/.gradle/
+examples/*/.autospec/runs/
